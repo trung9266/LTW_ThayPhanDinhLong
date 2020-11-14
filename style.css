@@ -777,7 +777,6 @@ span.total-pro {
     position: absolute;
     top: 100%;
     width: 100%;
-    height: 400px;
     z-index: 99;
     border: 1px solid #ededed;
     border-top-width: 0;
@@ -4542,6 +4541,7 @@ a.shipping-calculator-button:hover {
   text-decoration: none;
   top: 6px;
   transition: all 0.3s ease-in 0s;
+<<<<<<< HEAD
 }
 
 /*CountDown*/
@@ -4578,3 +4578,6 @@ a.shipping-calculator-button:hover {
 
 
 
+=======
+}
+>>>>>>> bc18d09f9e9f653ad378f1456c1bbd4d93a02ea2

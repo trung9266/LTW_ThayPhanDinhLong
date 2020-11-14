@@ -574,6 +574,7 @@ NOTE: main.js, All custom script and plugin activation script in this file.
             $(".popup_banner").fadeOut(500);
         })
 
+<<<<<<< HEAD
 })(jQuery);
 
 
@@ -655,3 +656,6 @@ $(document).ready(function(){
   
 
   
+=======
+})(jQuery);
+>>>>>>> bc18d09f9e9f653ad378f1456c1bbd4d93a02ea2
