@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/JDBC/QueryDataExample.java=UTF-8
+encoding//src/Servlet/CaidatAdmin.java=UTF-8
+encoding//src/Servlet/DAO.java=UTF-8
+encoding//src/Servlet/DonhangAdmin.java=UTF-8
+encoding//src/Servlet/EditSpAdmin.java=UTF-8
+encoding//src/Servlet/LoginAdmin.java=UTF-8
+encoding//src/Servlet/QLProducer.java=UTF-8
+encoding//src/Servlet/QLUser.java=UTF-8
+encoding//src/Servlet/SanphamAdmin.java=UTF-8
+encoding//src/Servlet/ShopSanPham.java=UTF-8
+encoding//src/Servlet/addAdminControll.java=UTF-8
+encoding//src/Servlet/editSpAdminUpdate.java=UTF-8
+encoding//src/Servlet/shoptimkiem.java=UTF-8
+encoding//src/javacore/DonHang.java=UTF-8
